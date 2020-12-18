@@ -1,0 +1,69 @@
+/* ---------------------------------------- AmirReza ---------------------------------------- */
+[user_by_bdfdb="650993831663239169"] >
+.da-topSectionNormal {
+    background: url('https://cdn.discordapp.com/attachments/604403809371947082/762974553202753576/metro_exodus_rails-wallpaper-7680x4800.jpg') center/cover no-repeat ;
+}
+[user_by_bdfdb="650993831663239169"] >
+.da-topSectionPlaying {
+    background: url('https://cdn.discordapp.com/attachments/604403809371947082/762974553202753576/metro_exodus_rails-wallpaper-7680x4800.jpg') center/cover no-repeat ;
+
+}
+[user_by_bdfdb="650993831663239169"] >
+.da-topSectionSpotify{
+    background: url('https://cdn.discordapp.com/attachments/604403809371947082/762974553202753576/metro_exodus_rails-wallpaper-7680x4800.jpg') center/cover no-repeat ;
+}
+[user_by_bdfdb="650993831663239169"] >
+.da-header {
+    background: url('https://cdn.discordapp.com/attachments/604403809371947082/762974553202753576/metro_exodus_rails-wallpaper-7680x4800.jpg') center/cover no-repeat ;
+}
+
+.avatar-1BDn8e[src*="650993831663239169"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://static.thenounproject.com/png/160062-200.png');}
+.avatar-1BDn8e[src*="650993831663239169"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Friend";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
+/* ---------------------------------------- Shadmehr ---------------------------------------- */
+[user_by_bdfdb="685808844596707339"] >
+.da-header {
+    background: url('https://upload.wikimedia.org/wikipedia/commons/5/51/IU_in_%22Love_Poem%22_Concert_in_Seoul_on_23rd_November_2019.jpg') center/cover no-repeat ;
+}
+[user_by_bdfdb="685808844596707339"] >
+.da-topSectionNormal{
+    background: url('https://cdn.discordapp.com/attachments/676787877878824980/778613225829957682/wp3743144-iu-k-pop-wallpapers.jpg') center/cover no-repeat;
+}
+[user_by_bdfdb="685808844596707339"] >
+.da-topSectionPlaying{
+    background: url('https://cdn.discordapp.com/attachments/676787877878824980/778613225829957682/wp3743144-iu-k-pop-wallpapers.jpg') center/cover no-repeat;
+}
+[user_by_bdfdb="685808844596707339"] >
+.da-topSectionSpotify{
+    background: url('https://cdn.discordapp.com/attachments/676787877878824980/778613225829957682/wp3743144-iu-k-pop-wallpapers.jpg') center/cover no-repeat;
+}
+.avatar-1BDn8e[src*="685808844596707339"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://static.thenounproject.com/png/160062-200.png');}
+.avatar-1BDn8e[src*="685808844596707339"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Friend";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
+/* ---------------------------------------- Mat ---------------------------------------- */
+.avatar-1BDn8e[src*="451679643595177994"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://static.thenounproject.com/png/160062-200.png');}
+.avatar-1BDn8e[src*="451679643595177994"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Friend";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
