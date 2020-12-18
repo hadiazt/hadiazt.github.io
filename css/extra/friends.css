@@ -31,10 +31,6 @@
 .da-topSectionSpotify{
     background: url('https://cdn.discordapp.com/attachments/721688979480641556/789572943444181052/andrew-neel-JBfdCFeRDeQ-unsplash.jpg') center/cover no-repeat ;
 }
-[user_by_bdfdb="366997934983872512"] >
-.da-header {
-    background: url('https://cdn.discordapp.com/attachments/690604664860704889/787990952069038100/image1.jpg') center/cover no-repeat ;
-}
 
 .avatar-1BDn8e[src*="366997934983872512"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
     background-image: url('https://static.thenounproject.com/png/160062-200.png');}
