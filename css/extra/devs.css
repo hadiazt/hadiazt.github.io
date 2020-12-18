@@ -1,0 +1,248 @@
+/* ---------------------------------------- Hadi ---------------------------------------- */
+[user_by_bdfdb="490519932292038659"] >
+.da-topSectionPlaying {
+    background: url('https://images3.persgroep.net/rcs/8e4HFYV59yv2OYrUxzIyEJ7YTC8/diocontent/148587116/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8&desiredformat=webp') center/cover no-repeat;
+}
+[user_by_bdfdb="490519932292038659"] >
+.da-topSectionNormal{
+    background: url('https://images3.persgroep.net/rcs/8e4HFYV59yv2OYrUxzIyEJ7YTC8/diocontent/148587116/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8&desiredformat=webp') center/cover no-repeat;
+}
+[user_by_bdfdb="490519932292038659"] >
+.da-topSectionSpotify{
+    background: url('https://images3.persgroep.net/rcs/8e4HFYV59yv2OYrUxzIyEJ7YTC8/diocontent/148587116/_fitwidth/763?appId=93a17a8fd81db0de025c8abd1cca1279&quality=0.8&desiredformat=webp') center/cover no-repeat;
+}
+[user_by_bdfdb="490519932292038659"] >
+.da-header {    
+    background: url('https://data.whicdn.com/images/326108422/original.gif') center/cover no-repeat;
+}
+
+.avatar-1BDn8e[src*="490519932292038659"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://cdn.discordapp.com/icons/721126627165077545/a_7c32e1c27b938a6a1b2d70a25733e912.png?size=4096');}
+.avatar-1BDn8e[src*="490519932292038659"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Developer";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
+[user_by_bdfdb="490519932292038659"] + .header-23xsNx .username-1A8OIy {
+    background-image: linear-gradient(to left, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    animation: gradient-border 6s linear infinite;
+    background-size: 400% 100%;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    
+}
+@keyframes gradient-border {
+    0%, 200% {
+        background-position: 0 0;
+    }
+
+    99.999999999999999% {
+        background-position: 130% 0;
+    }
+}
+
+.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="490519932292038659"]+.headerText-2sdzFM .headerTag-2pZJzA:after {
+    content: 'Developer';
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    border-radius: 20px;
+    color: var(--accent);
+    font-size: var(--size4);
+    font-weight: 500;
+    height: 1.28em;
+    padding: .072rem .275rem;
+    line-height: 1.28em;
+    background: #010101;
+    z-index: 2;
+}
+/* ---------------------------------------- Ehsan ---------------------------------------- */
+[user_by_bdfdb="533296202435788811"]  >
+.da-header {
+    background: url('https://cdn.discordapp.com/attachments/733324383799476264/789132800446955540/219a984f237abceeefbcf667919bed18.png') center/cover no-repeat ;
+}
+[user_by_bdfdb="533296202435788811"]  >
+.da-topSectionPlaying {
+    background: url('https://cdn.discordapp.com/attachments/733324383799476264/789132800446955540/219a984f237abceeefbcf667919bed18.png') center/cover no-repeat ;
+}
+[user_by_bdfdb="533296202435788811"]  >
+.da-topSectionNormal {
+    background: url('https://cdn.discordapp.com/attachments/733324383799476264/789132800446955540/219a984f237abceeefbcf667919bed18.png') center/cover no-repeat ;
+}
+[user_by_bdfdb="533296202435788811"]  >
+.da-topSectionSpotify{
+    background: url('https://cdn.discordapp.com/attachments/733324383799476264/789132800446955540/219a984f237abceeefbcf667919bed18.png') center/cover no-repeat ;
+}
+
+.avatar-1BDn8e[src*="533296202435788811"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://cdn.discordapp.com/icons/721126627165077545/a_7c32e1c27b938a6a1b2d70a25733e912.png?size=4096');}
+.avatar-1BDn8e[src*="533296202435788811"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Founder";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
+[user_by_bdfdb="533296202435788811"] + .header-23xsNx .username-1A8OIy {
+    background-image: linear-gradient(to left, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    animation: gradient-border 6s linear infinite;
+    background-size: 400% 100%;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    
+}
+@keyframes gradient-border {
+    0%, 200% {
+        background-position: 0 0;
+    }
+
+    99.999999999999999% {
+        background-position: 130% 0;
+    }
+}
+
+.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="533296202435788811"]+.headerText-2sdzFM .headerTag-2pZJzA:after {
+    content: 'Founder';
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    border-radius: 20px;
+    color: var(--accent);
+    font-size: var(--size4);
+    font-weight: 500;
+    height: 1.28em;
+    padding: .072rem .275rem;
+    line-height: 1.28em;
+    background: #010101;
+    z-index: 2;
+}
+/* ---------------------------------------- Hossien ---------------------------------------- */
+[user_by_bdfdb="730930464730251325"]  >
+.da-header {
+    background: url('https://www.avisto.com/wp-content/uploads/2019/09/full-stack-developer.jpg') center/cover no-repeat;;
+}
+[user_by_bdfdb="730930464730251325"]  >
+.da-topSectionPlaying {
+    background: url('https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg') center/cover no-repeat ;
+}
+[user_by_bdfdb="730930464730251325"]  >
+.da-topSectionNormal {
+    background: url('https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg') center/cover no-repeat ;
+}
+[user_by_bdfdb="730930464730251325"]  >
+.da-topSectionSpotify{
+    background: url('https://blog.eduonix.com/wp-content/uploads/2018/09/Full-Stack-Developer.jpg') center/cover no-repeat ;
+}
+
+.avatar-1BDn8e[src*="730930464730251325"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://cdn.discordapp.com/icons/721126627165077545/a_7c32e1c27b938a6a1b2d70a25733e912.png?size=4096');}
+.avatar-1BDn8e[src*="730930464730251325"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Developer";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
+[user_by_bdfdb="730930464730251325"] + .header-23xsNx .username-1A8OIy {
+    background-image: linear-gradient(to left, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    animation: gradient-border 6s linear infinite;
+    background-size: 400% 100%;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    
+}
+@keyframes gradient-border {
+    0%, 200% {
+        background-position: 0 0;
+    }
+
+    99.999999999999999% {
+        background-position: 130% 0;
+    }
+}
+
+.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="730930464730251325"]+.headerText-2sdzFM .headerTag-2pZJzA:after {
+    content: 'Developer';
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    border-radius: 20px;
+    color: var(--accent);
+    font-size: var(--size4);
+    font-weight: 500;
+    height: 1.28em;
+    padding: .072rem .275rem;
+    line-height: 1.28em;
+    background: #010101;
+    z-index: 2;
+}
+/* ---------------------------------------- AliReza ---------------------------------------- */
+[user_by_bdfdb="486055669674409986"]  >
+.da-header {
+    background: url('https://www.designhill.com/design-blog/wp-content/uploads/2014/08/Expert-Custom-Logo-Designer.png') center/cover no-repeat;;
+}
+[user_by_bdfdb="486055669674409986"]  >
+.da-topSectionPlaying {
+    background: url('https://www.designhill.com/design-blog/wp-content/uploads/2014/08/Expert-Custom-Logo-Designer.png') center/cover no-repeat ;
+}
+[user_by_bdfdb="486055669674409986"]  >
+.da-topSectionNormal {
+    background: url('https://www.designhill.com/design-blog/wp-content/uploads/2014/08/Expert-Custom-Logo-Designer.png') center/cover no-repeat ;
+}
+[user_by_bdfdb="486055669674409986"]  >
+.da-topSectionSpotify{
+    background: url('https://www.designhill.com/design-blog/wp-content/uploads/2014/08/Expert-Custom-Logo-Designer.png') center/cover no-repeat ;
+}
+
+.avatar-1BDn8e[src*="486055669674409986"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://cdn.discordapp.com/icons/721126627165077545/a_7c32e1c27b938a6a1b2d70a25733e912.png?size=4096');}
+.avatar-1BDn8e[src*="486055669674409986"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Designer";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
+[user_by_bdfdb="486055669674409986"] + .header-23xsNx .username-1A8OIy {
+    background-image: linear-gradient(to left, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+    animation: gradient-border 6s linear infinite;
+    background-size: 400% 100%;
+    color: transparent !important;
+    -webkit-background-clip: text;
+    
+}
+@keyframes gradient-border {
+    0%, 200% {
+        background-position: 0 0;
+    }
+
+    99.999999999999999% {
+        background-position: 130% 0;
+    }
+}
+
+.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="486055669674409986"]+.headerText-2sdzFM .headerTag-2pZJzA:after {
+    content: 'Designer';
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    border-radius: 20px;
+    color: var(--accent);
+    font-size: var(--size4);
+    font-weight: 500;
+    height: 1.28em;
+    padding: .072rem .275rem;
+    line-height: 1.28em;
+    background: #010101;
+    z-index: 2;
+}
