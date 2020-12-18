@@ -17,6 +17,50 @@
     text-align: center;
     background-color: transparent;
 }
+/* ---------------------------------------- Sara.Hz ---------------------------------------- */
+
+[user_by_bdfdb="537959413634564100"] >
+.da-topSectionNormal {
+  background: url('https://cdn.discordapp.com/attachments/660939511345315850/789602426029342740/2191f59de98bbe666539a4e0f88008f4.gif') center/cover no-repeat ;
+}
+[user_by_bdfdb="537959413634564100"] >
+.da-topSectionPlaying {
+  background: url('https://cdn.discordapp.com/attachments/660939511345315850/789602426029342740/2191f59de98bbe666539a4e0f88008f4.gif') center/cover no-repeat ;
+}
+[user_by_bdfdb="537959413634564100"] >
+.da-topSectionSpotify{
+  background: url('https://cdn.discordapp.com/attachments/660939511345315850/789602426029342740/2191f59de98bbe666539a4e0f88008f4.gif') center/cover no-repeat ;
+}
+[user_by_bdfdb="537959413634564100"] >
+.da-header {
+  background: url('https://cdn.discordapp.com/attachments/660939511345315850/789600405767979051/2d1486fda174a0058783c481a2765f13.jpg') center/cover no-repeat ;
+}
+.avatar-1BDn8e[src*="537959413634564100"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://static.thenounproject.com/png/160062-200.png');}
+.avatar-1BDn8e[src*="537959413634564100"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Friend";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
+/* ---------------------------------------- Hadiss ---------------------------------------- */
+[user_by_bdfdb="626144497641717800"] >
+.da-header {
+  background: url('https://cdn.discordapp.com/attachments/679240398966620160/789601816609947698/646fd84e23034116e2e47388fd047f7b.jpg') center/cover no-repeat ;
+}
+.avatar-1BDn8e[src*="626144497641717800"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+  background-image: url('https://static.thenounproject.com/png/160062-200.png');}
+.avatar-1BDn8e[src*="626144497641717800"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  content: "Friend";
+  animation: fadeIn .5s linear 1;
+  color: #7d864b;
+  width: 80px;
+  text-align: center;
+  background-color: transparent;
+}
 /* ---------------------------------------- Nima ---------------------------------------- */
 [user_by_bdfdb="366997934983872512"] >
 .da-topSectionNormal {
