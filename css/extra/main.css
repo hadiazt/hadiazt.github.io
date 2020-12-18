@@ -1,1 +1,18 @@
+@import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
 
+/* Text */
+.wordmark-2iDDfm:after {
+    content: "SeTar Team";
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    font-family: "discord";
+}
+.wordmark-2iDDfm svg {
+  display:none;
+}
+.wordmark-2iDDfm {
+    max-width:90vw;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
