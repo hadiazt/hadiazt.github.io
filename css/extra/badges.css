@@ -1,0 +1,41 @@
+.avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {
+  display: inline-block;
+  height: 14px;
+  width: 14px;
+  line-height: 14px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url('');
+  position: relative;
+  top: 2px;
+  margin-left: 5px;
+}
+.avatar-1BDn8e + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+  width: auto;
+  border-radius: 4px;
+  padding: 2px 5px;
+  background-image: none!important;
+  background-color: #0d0d0d;
+  color: #fff;
+  font-size: 12px;
+  top: -1px;
+  font-weight: normal;
+  animation-timing-function: linear;
+  transition: 
+    color .2s ease,
+    background-color .2s ease;
+}
+
+@keyframes rainbow {
+  from{filter: hue-rotate(0deg)}
+  to{filter: hue-rotate(360deg);}
+}
+@keyframes scaleIn {
+  from{transform: scale(.1);}
+  to{transform: scale(1);}
+}
+@keyframes fadeIn {
+  from{opacity: 0;}
+  to{opacity: 1;}
+}
