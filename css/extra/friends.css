@@ -1,22 +1,3 @@
-/* ---------------------------------------- Bot ---------------------------------------- */
-[user_by_bdfdb="721094392613437542"] >
-.da-topSectionNormal {
-  background: url('https://cdn.discordapp.com/attachments/677188998195839003/760212305597431828/unknown.png') center/cover no-repeat ;
-}
-[user_by_bdfdb="721094392613437542"] >
-.da-topSectionPlaying {
-  background: url('https://cdn.discordapp.com/attachments/677188998195839003/760212305597431828/unknown.png') center/cover no-repeat ;
-}
-.avatar-1BDn8e[src*="721094392613437542"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
-    background-image: url('https://esportsone.com/wp-content/uploads/2019/08/one_bot_icon.png');}
-.avatar-1BDn8e[src*="721094392613437542"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
-    content: "SeTar Bot";
-    animation: fadeIn .5s linear 1;
-    color: #7d864b;
-    width: 80px;
-    text-align: center;
-    background-color: transparent;
-}
 /* ---------------------------------------- Sara.Hz ---------------------------------------- */
 
 [user_by_bdfdb="537959413634564100"] >
