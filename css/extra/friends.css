@@ -1,3 +1,32 @@
+/* ---------------------------------------- Kian ---------------------------------------- */
+
+[user_by_bdfdb="717281532590424084"] >
+.da-topSectionNormal {
+    background: url('https://cdn.discordapp.com/attachments/789881827128115200/789883335039909898/tgfr.gif') center/cover no-repeat ;
+}
+[user_by_bdfdb="717281532590424084"] >
+.da-topSectionPlaying {
+  background: url('https://cdn.discordapp.com/attachments/789881827128115200/789883335039909898/tgfr.gif') center/cover no-repeat ;
+}
+[user_by_bdfdb="717281532590424084"] >
+.da-topSectionSpotify{
+  background: url('https://cdn.discordapp.com/attachments/789881827128115200/789883335039909898/tgfr.gif') center/cover no-repeat ;
+}
+[user_by_bdfdb="717281532590424084"] >
+.da-header {
+  background: url('https://cdn.discordapp.com/attachments/789881827128115200/789883150494859264/a_ba9463ff00af058835fcbcbb0547291d.gif') center/cover no-repeat ;
+}
+.avatar-1BDn8e[src*="717281532590424084"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://static.thenounproject.com/png/160062-200.png');}
+.avatar-1BDn8e[src*="717281532590424084"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Friend";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
 /* ---------------------------------------- Sara.Hz ---------------------------------------- */
 
 [user_by_bdfdb="537959413634564100"] >
