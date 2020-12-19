@@ -51,6 +51,18 @@
 .da-header {
   background: url('https://cdn.discordapp.com/attachments/679240398966620160/789601816609947698/646fd84e23034116e2e47388fd047f7b.jpg') center/cover no-repeat ;
 }
+[user_by_bdfdb="626144497641717800"] >
+.da-topSectionNormal {
+    background: url('https://cdn.discordapp.com/attachments/690604664860704889/789763524791500810/image0.jpeg') center/cover no-repeat;
+}
+[user_by_bdfdb="626144497641717800"] >
+.da-topSectionSpotify {
+    background: url('https://cdn.discordapp.com/attachments/690604664860704889/789763524791500810/image0.jpeg') center/cover no-repeat;
+}
+[user_by_bdfdb="626144497641717800"] >
+.da-topSectionPlaying {
+    background: url('https://cdn.discordapp.com/attachments/690604664860704889/789763524791500810/image0.jpeg') center/cover no-repeat;
+}
 .avatar-1BDn8e[src*="626144497641717800"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
   background-image: url('https://static.thenounproject.com/png/160062-200.png');}
 .avatar-1BDn8e[src*="626144497641717800"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
