@@ -1,0 +1,80 @@
+/**
+ * @name SeTar Devs
+ * @description You can see our team especially way
+ * @author Hadi.Az
+ * @authorId 490519932292038659
+ * @version 0.0.1
+ * @website http://3tarbot.ir
+ * @source https://github.com/hadiazt/SeTar-Team-Theme
+ * @invite GBDkr9T
+ * @authorLink https://github.com/hadiazt
+ * @website http://3tarbot.ir
+ * @updateUrl https://raw.githubusercontent.com/hadiazt/SeTar-Team-Theme/main/SeTarTeam.theme.css
+ */
+
+
+/* Import */
+@import url("https://hadi.js.org/css/extra/devs.css");
+@import url("https://hadi.js.org/css/extra/friends.css");
+@import url("https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css");
+@import url("https://discordstyles.github.io/RadialStatus/base.css");
+@import url("https://puckzxz.github.io/NotAnotherAnimeTheme/css/scsl.css");
+@import url("https://codedotspectra.github.io/themes/core/badges.css");
+
+/* Main */
+:root {    
+--background-image: url('https://cdn.discordapp.com/attachments/219022400233275392/304585796130963456/firewatch_5.jpg');
+--friends-icon: url('https://cdn.icon-icons.com/icons2/2108/PNG/512/discord_icon_130958.png');
+--friends-icon-position: center center;
+--friends-icon-zoom: 100%;
+--unread-server-animation: rainbow;
+--main-color: rgb(221, 165, 61);
+--main-transparency: rgba(0, 0, 0, 0.8);
+--hover-list-bg-color: rgba(255, 255, 255, .15);
+--scroll-bar-color: rgba(255,255,255, .15);
+--font-size: 16px;
+--selected-text-voice-color: rgba(78, 193, 221, 0.75);
+--channel-hover-text-color: rgba(78, 193, 221, 0.75);
+--unread-text-color: #dcddde;
+--user-popup-background: rgba(0, 0, 0, 0.8);
+--rs-small-spacing: 2px; 
+--rs-large-spacing: 3px;  
+--rs-width: 2px;  
+--rs-avatar-shape: 50%;  
+--rs-online-color: #43b581;  
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;  
+--rs-offline-color: #636b75;  
+--rs-streaming-color: #643da7; 
+--rs-invisible-color: #747f8d;
+}
+
+/* -------------------- Do Not Edit -------------------- */
+.wordmark-2iDDfm:after {
+    content: "SeTar Team";
+    font-size: 14px;
+    font-weight: 700;
+    white-space: nowrap;
+    font-family: "discord";
+}
+.wordmark-2iDDfm svg {
+  display:none;
+}
+.wordmark-2iDDfm {
+    max-width:90vw;
+    overflow:hidden;
+    text-overflow:ellipsis;
+}
+.da-circleButtonMask{
+  top: 20px;
+}
+.da-expandedFolderBackground{
+  opacity: 30%;
+}
+.modeSelected-346R90 .name-23GUGE, .modeConnected-3IsKId .name-23GUGE{
+  background-image: linear-gradient(to left, #6666ff, #0099ff , #00ff00, #ff3399, #6666ff);
+  animation: gradient-border 6s linear infinite;
+  background-size: 400% 100%;
+  color: transparent !important;
+  -webkit-background-clip: text;
+}
