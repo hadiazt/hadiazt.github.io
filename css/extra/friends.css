@@ -156,6 +156,21 @@
     background-color: transparent;
 }
 
+.userPopout-3XzG_A .avatarWrapper-3H_478[user_by_bdfdb*="650993831663239169"]+.headerText-2sdzFM .headerTag-2pZJzA:after {
+    content: 'Developer';
+    position: absolute;
+    top: 10px;
+    right: 5px;
+    border-radius: 20px;
+    color: var(--accent);
+    font-size: var(--size4);
+    font-weight: 500;
+    height: 1.28em;
+    padding: .072rem .275rem;
+    line-height: 1.28em;
+    background: #010101;
+    z-index: 2;
+}
 /* ---------------------------------------- Shadmehr ---------------------------------------- */
 [user_by_bdfdb="685808844596707339"] >
 .da-header {
