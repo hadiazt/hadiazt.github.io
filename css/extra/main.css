@@ -64,9 +64,7 @@
     overflow:hidden;
     text-overflow:ellipsis;
 }
-.da-circleButtonMask{
-  top: 20px;
-}
+
 .da-expandedFolderBackground{
   opacity: 30%;
 }
