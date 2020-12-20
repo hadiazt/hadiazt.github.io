@@ -65,6 +65,9 @@
     text-overflow:ellipsis;
 }
 
+#bd-pub-li #bd-pub-button {
+    visibility: hidden;
+}
 .da-expandedFolderBackground{
   opacity: 30%;
 }
