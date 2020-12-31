@@ -5,6 +5,13 @@ body{
     background-color: #2f3136;
     font-family: "Roboto";
 }
+hr { 
+    background-color: #505050; height: 1px; border: 0; width:100% ;
+    margin-top: 10px;
+}
+.main{
+    margin-top: 10px;
+}
 .img{
     float: left;
     border-radius: 50%;
@@ -30,9 +37,6 @@ body{
     margin-left: .25rem;
 }
 .text{
-    -webkit-user-select: text;
-    -moz-user-select: text;
-    -ms-user-select: text;
     font-size: 0.8rem;
     color: #fbffff;
     user-select: text;
