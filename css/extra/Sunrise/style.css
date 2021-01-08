@@ -54,7 +54,7 @@ body {
 
 .user {
     font-size: 40px;
-    margin-top: -50px;
+    margin-top: -60px;
     font-family: 'aviny';
     text-align: center;
     text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
@@ -63,7 +63,7 @@ body {
 
 .sun {
     font-size: 50px;
-    margin-top: -50px;
+    margin-top: -20px;
     font-family: 'aviny';
     text-align: center;
     text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
