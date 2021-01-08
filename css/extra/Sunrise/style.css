@@ -1,5 +1,4 @@
 
-
 @font-face {
     font-family: 'aviny';
     src: url('./fonts/aviny.eot');
@@ -40,7 +39,7 @@ body {
     width: 200px;
     height: 100px;
     padding-top: 100px;
-    margin-left: 400px;
+    margin-left: 405px;
 }
 
 .wlc {
