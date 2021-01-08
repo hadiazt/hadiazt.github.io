@@ -1,0 +1,70 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,500,700");
+@import url('https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/DiscordFont.css');
+@font-face {
+    font-family: 'aviny';
+    src: url('./fonts/aviny.eot');
+    /* IE9 Compat Modes */
+    src: url('./fonts/aviny.woff2') format('woff2'), /* Super Modern Browsers */
+    url('./fonts/aviny.woff') format('woff'), /* Pretty Modern Browsers */
+    url('./fonts/aviny.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('./fonts/aviny.svg') format('svg');
+    /* Legacy iOS */
+}
+
+body {
+    width: 1020px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    background-color: #0e0e0e;
+}
+
+.bg {
+    width: inherit;
+    height: inherit;
+    margin: none;
+    padding: 0;
+    background-size: cover;
+
+}
+
+.size {
+    padding-top: 30px;
+}
+
+.img {
+    background-size: cover;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: #ff8700;
+    width: 200px;
+    height: 100px;
+    padding-top: 100px;
+    margin-left: 400px;
+}
+
+.wlc {
+    font-size: 100px;
+    margin-top: -30px;
+    font-family: 'aviny';
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+    text-align: center;
+    color: white;
+}
+
+.user {
+    font-size: 30px;
+    margin-top: -50px;
+    font-family: cursive;
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+    color: white;
+}
+
+.sun {
+    font-size: 50px;
+    font-family: "Discord";
+    text-align: center;
+    text-shadow: 1px 1px 2px black, 0 0 25px black, 0 0 5px black;
+    color: #ff8700;
+}
