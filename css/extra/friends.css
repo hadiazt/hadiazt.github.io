@@ -266,3 +266,15 @@
     text-align: center;
     background-color: transparent;
 }
+/* ---------------------------------------- parsa ---------------------------------------- */
+.avatar-1BDn8e[src*="488958506280550402"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy::after {content: "";
+    background-image: url('https://static.thenounproject.com/png/160062-200.png');}
+.avatar-1BDn8e[src*="488958506280550402"] + h2 > .headerText-3Uvj1Y > .username-1A8OIy:hover::after {
+    content: "Friend";
+    animation: fadeIn .5s linear 1;
+    color: #7d864b;
+    width: 80px;
+    text-align: center;
+    background-color: transparent;
+}
+
